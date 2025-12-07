@@ -1,0 +1,11 @@
+{
+    "name": "tabce-frontend",
+    "version": "1.0.0",
+    "description": "Tesco AI Beauty Try-On Creative Engine Frontend",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "TABCE Team",
+    "license": "MIT"
+}
