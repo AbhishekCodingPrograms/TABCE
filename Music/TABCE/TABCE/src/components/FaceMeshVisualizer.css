@@ -1,0 +1,256 @@
+.face-mesh-visualizer {
+    background: var(--glass);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.face-mesh-visualizer.active {
+    border-color: var(--primary-light);
+    box-shadow: 0 0 30px rgba(59, 130, 246, 0.3);
+}
+
+.visualizer-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.tech-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(59, 130, 246, 0.1);
+    border: 1px solid rgba(59, 130, 246, 0.3);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: var(--primary-light);
+    font-weight: 600;
+}
+
+.mesh-stats {
+    display: flex;
+    gap: 2rem;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.stat-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-light);
+    font-family: 'Courier New', monospace;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Mesh Canvas */
+.mesh-canvas {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto 1.5rem;
+    aspect-ratio: 1;
+    background: radial-gradient(circle at center, rgba(59, 130, 246, 0.05), transparent);
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+.mesh-svg {
+    width: 100%;
+    height: 100%;
+}
+
+.face-outline {
+    animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 0.3;
+    }
+
+    50% {
+        opacity: 0.6;
+    }
+}
+
+.active-point {
+    animation: pointPulse 1s ease-in-out;
+}
+
+@keyframes pointPulse {
+    0% {
+        r: 0;
+        opacity: 0;
+    }
+
+    50% {
+        r: 0.8;
+        opacity: 1;
+    }
+
+    100% {
+        r: 0.4;
+        opacity: 1;
+    }
+}
+
+@keyframes fadeLine {
+
+    0%,
+    100% {
+        opacity: 0.1;
+    }
+
+    50% {
+        opacity: 0.4;
+    }
+}
+
+.scan-line {
+    animation: scanMove 2s ease-in-out;
+    filter: drop-shadow(0 0 5px rgba(59, 130, 246, 0.8));
+}
+
+@keyframes scanMove {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.scan-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.scan-pulse {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 150%;
+    height: 150%;
+    transform: translate(-50%, -50%);
+    background: radial-gradient(circle, rgba(59, 130, 246, 0.2), transparent 70%);
+    animation: expandPulse 2s ease-out infinite;
+}
+
+@keyframes expandPulse {
+    0% {
+        width: 0;
+        height: 0;
+        opacity: 1;
+    }
+
+    100% {
+        width: 150%;
+        height: 150%;
+        opacity: 0;
+    }
+}
+
+/* Feature Indicators */
+.feature-indicators {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.feature-indicator {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--glass-border);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.feature-indicator.detected {
+    background: rgba(16, 185, 129, 0.1);
+    border-color: var(--success);
+}
+
+.feature-indicator.detected .indicator-dot {
+    background: var(--success);
+    box-shadow: 0 0 10px var(--success);
+}
+
+.indicator-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--text-secondary);
+    transition: all 0.3s ease;
+}
+
+.feature-indicator span {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.feature-indicator.detected span {
+    color: var(--success);
+}
+
+/* Tech Info */
+.tech-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 8px;
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+}
+
+.info-icon {
+    color: var(--primary-light);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .visualizer-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .mesh-stats {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .feature-indicators {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
