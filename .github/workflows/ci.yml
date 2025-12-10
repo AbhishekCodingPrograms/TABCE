@@ -33,3 +33,8 @@ jobs:
 
     - name: Docker Build Backend
       run: docker build ./backend --file ./backend/Dockerfile --tag tabce-backend:latest
+    
+    - name: Run Tests
+      run: |
+        pip install pytest httpx
+        pytest
