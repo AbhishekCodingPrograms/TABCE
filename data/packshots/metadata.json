@@ -1,0 +1,8 @@
+{
+  "original_file": "data\\packshots\\sample_product.jpg",
+  "processed_file": "data\\packshots\\processed_product.png",
+  "size_bytes": 54733,
+  "dimensions": "500x500",
+  "processing_time": 0.4,
+  "bg_removal_method": "Heuristic"
+}

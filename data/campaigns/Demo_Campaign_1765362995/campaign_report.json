@@ -1,0 +1,358 @@
+{
+  "campaign": "Demo_Campaign_1765362995",
+  "total_generated": 30,
+  "top_5": [
+    {
+      "id": "v2_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_2_screen_portrait.jpg",
+      "score": 29.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v4_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_4_screen_portrait.jpg",
+      "score": 29.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Bold",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v5_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_5_screen_portrait.jpg",
+      "score": 29.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v0_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_0_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v1_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_1_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    }
+  ],
+  "all_variants": [
+    {
+      "id": "v2_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_2_screen_portrait.jpg",
+      "score": 29.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v4_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_4_screen_portrait.jpg",
+      "score": 29.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Bold",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v5_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_5_screen_portrait.jpg",
+      "score": 29.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v0_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_0_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v1_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_1_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v3_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_3_screen_portrait.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Indian",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v3_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_3_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v6_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_6_screen_portrait.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v6_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_6_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v7_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_7_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v9_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_9_screen_portrait.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v9_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_9_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v0_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_0_screen_portrait.jpg",
+      "score": 28.6,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v1_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_1_screen_portrait.jpg",
+      "score": 28.6,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v7_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_7_screen_portrait.jpg",
+      "score": 28.6,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v2_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_2_web_banner.jpg",
+      "score": 28.2,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v5_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_5_web_banner.jpg",
+      "score": 28.2,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v8_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_8_web_banner.jpg",
+      "score": 28.2,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v8_screen_portrait",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_8_screen_portrait.jpg",
+      "score": 28.1,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "screen_portrait"
+      }
+    },
+    {
+      "id": "v5_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_5_social.jpg",
+      "score": 27.3,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v0_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_0_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v1_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_1_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v2_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_2_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v3_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_3_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v4_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_4_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v4_web_banner",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_4_web_banner.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "v6_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_6_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v7_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_7_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v8_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_8_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "v9_social",
+      "file_path": "C:\\Users\\abhis\\New folder\\tabce\\data\\campaigns\\Demo_Campaign_1765362995\\variant_9_social.jpg",
+      "score": 27.2,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    }
+  ]
+}

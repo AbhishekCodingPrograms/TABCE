@@ -1,0 +1,158 @@
+{
+  "campaign": "Demo_Campaign_1765143333",
+  "total_generated": 10,
+  "top_5": [
+    {
+      "id": "variant_7",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_7_social.jpg",
+      "score": 32.4,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_8",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_8_web_banner.jpg",
+      "score": 32.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_1",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_1_web_banner.jpg",
+      "score": 31.2,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_9",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_9_web_banner.jpg",
+      "score": 29.5,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_6",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_6_social.jpg",
+      "score": 29.1,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    }
+  ],
+  "all_variants": [
+    {
+      "id": "variant_7",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_7_social.jpg",
+      "score": 32.4,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_8",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_8_web_banner.jpg",
+      "score": 32.0,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_1",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_1_web_banner.jpg",
+      "score": 31.2,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_9",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_9_web_banner.jpg",
+      "score": 29.5,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_6",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_6_social.jpg",
+      "score": 29.1,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_3",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_3_web_banner.jpg",
+      "score": 28.9,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_2",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_2_web_banner.jpg",
+      "score": 28.7,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_4",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_4_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_5",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_5_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_0",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765143333\\variant_0_social.jpg",
+      "score": 25.3,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    }
+  ]
+}

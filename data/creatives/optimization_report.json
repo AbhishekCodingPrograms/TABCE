@@ -1,0 +1,30 @@
+[
+  {
+    "final_size_kb": 66,
+    "quality": 100,
+    "ssim": 1.0,
+    "status": "PASS",
+    "file": "ad_app_banner.jpg"
+  },
+  {
+    "final_size_kb": 160,
+    "quality": 100,
+    "ssim": 1.0,
+    "status": "PASS",
+    "file": "ad_screen_portrait.jpg"
+  },
+  {
+    "final_size_kb": 95,
+    "quality": 100,
+    "ssim": 1.0,
+    "status": "PASS",
+    "file": "ad_social.jpg"
+  },
+  {
+    "final_size_kb": 76,
+    "quality": 100,
+    "ssim": 1.0,
+    "status": "PASS",
+    "file": "ad_web_banner.jpg"
+  }
+]

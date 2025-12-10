@@ -1,0 +1,42 @@
+[
+  {
+    "id": "v1_original",
+    "skin_tone": "#FFE0BD",
+    "tone_intensity": 0.1,
+    "age_group": "young",
+    "feature_intensity": 0.5,
+    "file_path": "data\\variants\\v1_original.png"
+  },
+  {
+    "id": "v2_tan_adult",
+    "skin_tone": "#EAC086",
+    "tone_intensity": 0.6,
+    "age_group": "adult",
+    "feature_intensity": 0.5,
+    "file_path": "data\\variants\\v2_tan_adult.png"
+  },
+  {
+    "id": "v3_deep_senior",
+    "skin_tone": "#8D5524",
+    "tone_intensity": 0.7,
+    "age_group": "senior",
+    "feature_intensity": 0.5,
+    "file_path": "data\\variants\\v3_deep_senior.png"
+  },
+  {
+    "id": "v4_pale_young",
+    "skin_tone": "#FFDFC4",
+    "tone_intensity": 0.4,
+    "age_group": "young",
+    "feature_intensity": 0.4,
+    "file_path": "data\\variants\\v4_pale_young.png"
+  },
+  {
+    "id": "v5_warm_adult",
+    "skin_tone": "#C68642",
+    "tone_intensity": 0.5,
+    "age_group": "adult",
+    "feature_intensity": 0.6,
+    "file_path": "data\\variants\\v5_warm_adult.png"
+  }
+]

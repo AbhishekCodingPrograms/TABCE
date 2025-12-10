@@ -25,12 +25,12 @@ yarn-debug.log*
 yarn-error.log*
 
 # Data - Exclude generated user content
-data/campaigns/
-data/creatives/
-data/makeup_renders/
-data/variants/
-data/packshots/*
-!data/packshots/.gitkeep
+# data/campaigns/
+# data/creatives/
+# data/makeup_renders/
+# data/variants/
+# data/packshots/*
+# !data/packshots/.gitkeep
 
 # Keep Demo Assets (Required for app to run)
 !data/demo_face/

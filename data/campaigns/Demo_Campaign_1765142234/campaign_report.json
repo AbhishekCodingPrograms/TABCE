@@ -1,0 +1,158 @@
+{
+  "campaign": "Demo_Campaign_1765142234",
+  "total_generated": 10,
+  "top_5": [
+    {
+      "id": "variant_0",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_0_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_2",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_2_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_9",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_9_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_1",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_1_web_banner.jpg",
+      "score": 25.8,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_4",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_4_web_banner.jpg",
+      "score": 25.8,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    }
+  ],
+  "all_variants": [
+    {
+      "id": "variant_0",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_0_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_2",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_2_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_9",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_9_web_banner.jpg",
+      "score": 28.5,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_1",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_1_web_banner.jpg",
+      "score": 25.8,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_4",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_4_web_banner.jpg",
+      "score": 25.8,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_8",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_8_web_banner.jpg",
+      "score": 21.1,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_7",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_7_social.jpg",
+      "score": 19.2,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_3",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_3_social.jpg",
+      "score": 18.6,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_5",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_5_social.jpg",
+      "score": 18.6,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_6",
+      "file_path": "data\\campaigns\\Demo_Campaign_1765142234\\variant_6_social.jpg",
+      "score": 18.6,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "social"
+      }
+    }
+  ]
+}

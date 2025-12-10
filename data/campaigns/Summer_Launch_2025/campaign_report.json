@@ -1,0 +1,208 @@
+{
+  "campaign": "Summer_Launch_2025",
+  "total_generated": 15,
+  "top_5": [
+    {
+      "id": "variant_1",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_1_web_banner.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_7",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_7_social.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_8",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_8_social.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_12",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_12_social.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_5",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_5_social.jpg",
+      "score": 26.6,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Western",
+        "layout": "social"
+      }
+    }
+  ],
+  "all_variants": [
+    {
+      "id": "variant_1",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_1_web_banner.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Warm_Senior",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_7",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_7_social.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_8",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_8_social.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_12",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_12_social.jpg",
+      "score": 26.8,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_5",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_5_social.jpg",
+      "score": 26.6,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Western",
+        "layout": "social"
+      }
+    },
+    {
+      "id": "variant_6",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_6_web_banner.jpg",
+      "score": 25.9,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_10",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_10_web_banner.jpg",
+      "score": 25.9,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_14",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_14_web_banner.jpg",
+      "score": 25.6,
+      "meta": {
+        "model": "Deep_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_3",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_3_web_banner.jpg",
+      "score": 24.0,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_4",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_4_web_banner.jpg",
+      "score": 24.0,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_11",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_11_web_banner.jpg",
+      "score": 24.0,
+      "meta": {
+        "model": "Light_Young",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_0",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_0_web_banner.jpg",
+      "score": 23.5,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_2",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_2_web_banner.jpg",
+      "score": 23.5,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Western",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_9",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_9_web_banner.jpg",
+      "score": 23.5,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Bold",
+        "layout": "web_banner"
+      }
+    },
+    {
+      "id": "variant_13",
+      "file_path": "data\\campaigns\\Summer_Launch_2025\\variant_13_web_banner.jpg",
+      "score": 23.5,
+      "meta": {
+        "model": "Tan_Adult",
+        "makeup": "Indian",
+        "layout": "web_banner"
+      }
+    }
+  ]
+}
